@@ -1,4 +1,9 @@
-# README
+# README 
+
+### 内容
+- 最新バージョンのお試し用Docker
+  - Rails 7.0.4
+  - Ruby 3.1.2
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
